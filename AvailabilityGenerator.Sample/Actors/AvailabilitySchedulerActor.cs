@@ -10,6 +10,7 @@ namespace AvailabilityGenerator.Sample.Actors
         private TimeSpan _packageRetrievalFrequency;
         private TimeSpan _itineraryRetrievalFrequency;
 
+        //This is responsible for starting working actors and scheduling next runs 
 
         public AvailabilitySchedulerActor()
         {
