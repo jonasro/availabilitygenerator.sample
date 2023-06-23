@@ -1,5 +1,6 @@
 ﻿using Akka.Actor;
 using AvailabilityGenerator.Sample.Commands;
+using AvailabilityGenerator.Sample.Events;
 
 namespace AvailabilityGenerator.Sample.Actors
 {

@@ -1,4 +1,4 @@
-﻿namespace AvailabilityGenerator.Sample.Commands
+﻿namespace AvailabilityGenerator.Sample.Events
 {
     public class ItineraryRetrievalCompleted
     {

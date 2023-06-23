@@ -1,6 +1,7 @@
 ﻿using Akka.Actor;
 using Akka.Delivery;
 using AvailabilityGenerator.Sample.Commands;
+using AvailabilityGenerator.Sample.Events;
 
 namespace AvailabilityGenerator.Sample.Actors
 {
